@@ -391,7 +391,8 @@
   "projects": [
     {
       "name": "Plataforma de Orquestração de IA",
-      "description": "",
+      "description": "Desenvolvimento de plataforma completa para orquestração de agentes de inteligência artificial, com arquitetura serverless e frontend em Angular.
+A solução permite integrar múltiplos agentes, criar fluxos personalizados entre eles e monitorar execuções de ponta a ponta, viabilizando o controle centralizado de pipelines de IA em larga escala, com foco em usabilidade e eficiência operacional.",
       "technologies": [
         "Angular",
         "Python",
