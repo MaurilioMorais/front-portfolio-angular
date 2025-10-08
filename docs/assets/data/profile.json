@@ -391,7 +391,7 @@
   "projects": [
     {
       "name": "Plataforma de Orquestração de IA",
-      "description": "Desenvolvimento de plataforma completa para orquestração de IA com arquitetura serverless na AWS",
+      "description": "",
       "technologies": [
         "Angular",
         "Python",
@@ -407,29 +407,29 @@
         "Route53"
 
       ],
-      "links": {}
+      "links": {"company":"Itaú Unibanco"}
     },
     {
       "name": "Service Portal com IA",
-      "description": "Integração de Service Portal com inteligência artificial para contagem e análise automatizada de BCPs",
+      "description": "Desenvolvimento de interface no Service Portal para integração com inteligência artificial,  viabilizando a contagem e análise automatizada de BCPs(Business Complexity Points). Atuei no Frontend, com foco na experiência do usuário, exibição dinâmica dos dados analisados e feedback com os recursos providos pela IA.",
       "technologies": [
         "ServiceNow",
         "Service Portal",
         "AngularJS",
         "JavaScript"
       ],
-      "links": {}
+      "links": {"company":"Itaú Unibanco"}
     },
     {
       "name": "Sistema de Gestão CMDB",
-      "description": "Desenvolvimento de Service Portal para gestão centralizada do CMDB com atualizações de conformidade",
+      "description": "Desenvolvimento de Service Portal para gestão centralizada do CMDB, com automação de conformidade e suporte técnico. Otimizei Scheduled Jobs e Script Includes, reduzindo o tempo de execução em até 98%. Atuei no backend e na sustentação da solução, promovendo melhorias de desempenho e confiabilidade do sistema.",
       "technologies": [
         "ServiceNow",
         "Service Portal",
         "AngularJS",
         "JavaScript"
       ],
-      "links": {}
+      "links": {"company":"Itaú Unibanco"}
     }
   ],
   "contacts": {
